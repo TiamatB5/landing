@@ -47,3 +47,14 @@ label::before {
 #toggle2:checked ~ label::before {
   content: "-";
 }
+#expand3 {
+  height: 0px;
+  overflow: hidden;
+  transition: height 0.5s;
+}
+#toggle3:checked ~ #expand3 {
+  height: auto;
+}
+#toggle3:checked ~ label::before {
+  content: "-";
+}
