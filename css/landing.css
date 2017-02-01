@@ -198,10 +198,18 @@ h2, h3 {
   border-radius: 35px;
 }
 
+.tshadow {
+  text-shadow: 1px 1px #1f3d7a
+}
+
 .bgcolor1 {
   background-color: #e0ebeb;
 }
 
 .bgcolor2 {
   background-color: #d6e0f5;
+}
+
+.lilmargin {
+  margin-top: -5px;
 }
