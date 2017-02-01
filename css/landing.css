@@ -197,3 +197,11 @@ h2, h3 {
   line-height: 1.33;
   border-radius: 35px;
 }
+
+.bgcolor1 {
+  background-color: #e0ebeb;
+}
+
+.bgcolor2 {
+  background-color: #ccf2ff;
+}
